@@ -33,3 +33,9 @@ Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed
 - 9 - +4T-controlled simulation experiment
 - 10 - T-codon enrichment scores
 - 11 - Lengths and expression association
+
+FASTA files explained:
+
+This repository contains many different folders of FASTA files. These are each explained below:
+
+[fill this in later]
