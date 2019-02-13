@@ -22,14 +22,14 @@ Python scripts:
 
 Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed script information can be found inside the '0_Python_scripts' folder.
 
-1 - Filtering and obtaining FASTA files
-2 - Dinucleotide-controlled simulation experiment
-3 - Obtain ASC frequency information - includes relative usage
-4 - Mollicutes analysis
-5 - Subset analysis e.g. TGA HEGs vs TAA LEGs
-6 - Third stops analysis
-7 - +4T identification and tests
-8 - Primary stop usage
-9 - +4T-controlled simulation experiment
-10 - T-codon enrichment scores
-11 - Lengths and expression association
+- 1 - Filtering and obtaining FASTA files
+- 2 - Dinucleotide-controlled simulation experiment
+- 3 - Obtain ASC frequency information - includes relative usage
+- 4 - Mollicutes analysis
+- 5 - Subset analysis e.g. TGA HEGs vs TAA LEGs
+- 6 - Third stops analysis
+- 7 - +4T identification and tests
+- 8 - Primary stop usage
+- 9 - +4T-controlled simulation experiment
+- 10 - T-codon enrichment scores
+- 11 - Lengths and expression association
