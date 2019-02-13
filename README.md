@@ -20,7 +20,7 @@ Folders:
 
 Python scripts:
 
-Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed script information can be found inside the '0_Python_scripts' folder.
+Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed script information (Python and R) can be found in the document 'Scripts_Explained'.
 
 - 1 - Filtering and obtaining FASTA files
 - 2 - Dinucleotide-controlled simulation experiment
