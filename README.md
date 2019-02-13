@@ -13,7 +13,7 @@ Instructions:
 
 Folders:
 - 0 - Scripts
-- 1 - EMBL files
+- 1 - EMBL files (not uploaded to this repository due to size)
 - 2 - FASTA files
 - 3 - PaxDB raw data and appropriate EMBL genomes
 - 4 - Outputs (includes CSVs)
