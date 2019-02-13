@@ -4,20 +4,20 @@
 
 This repository contains the source code for running the analysis described in the paper.
 
-Instructions:
+###Instructions:
 - All files run from the root directory.
 - Python scripts are found in '0_Python_scripts' (all scripts are run using Python3)
 - R scripts are found in '0_R_scripts'
 - CSVs produced by Python scripts can be found in 'Author CSVs'
 
-Folders in this repository:
+###Folders in this repository:
 - 0 - Scripts
 - 1 - EMBL files (not uploaded to this repository due to size)
 - 2 - FASTA files
 - 3 - PaxDB raw data and appropriate EMBL genomes
 - 4 - Outputs (includes CSVs)
 
-Python scripts:
+###Python scripts:
 
 Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed script information (Python and R) can be found in the document 'Scripts_Explained'.
 
@@ -33,7 +33,7 @@ Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed
 - 10 - T-codon enrichment scores
 - 11 - Lengths and expression association
 
-FASTA folders/files explained:
+###FASTA folders/files explained:
 
 This repository contains many different folders of FASTA files. These are each explained below:
 
@@ -64,7 +64,7 @@ This repository contains many different folders of FASTA files. These are each e
 2_LEGs_fasta: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are the UTRs for all qualifying lowly expressed genes (see methods for how these are defined).
 
 
-Alexander Ho
-Milner Centre for Evolution
-University of Bath
-a.t.ho@bath.ac.uk
+### Alexander Ho
+### Milner Centre for Evolution
+### University of Bath
+### a.t.ho@bath.ac.uk
