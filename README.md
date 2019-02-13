@@ -8,10 +8,9 @@ Instructions:
 - All files run from the root directory.
 - Python scripts are found in '0_Python_scripts' (all scripts are run using Python3)
 - R scripts are found in '0_R_scripts'
-- All python scripts are run using Python 3.
 - CSVs produced by Python scripts can be found in 'Author CSVs'
 
-Folders:
+Folders in this repository:
 - 0 - Scripts
 - 1 - EMBL files (not uploaded to this repository due to size)
 - 2 - FASTA files
@@ -34,8 +33,38 @@ Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed
 - 10 - T-codon enrichment scores
 - 11 - Lengths and expression association
 
-FASTA files explained:
+FASTA folders/files explained:
 
 This repository contains many different folders of FASTA files. These are each explained below:
 
-[fill this in later]
+2_FASTA_CDS_all: This folder contains FASTA files for our filtered bacteria dataset. Sequences contained in the FASTA files are coding sequence information for all qualifying genes that satisfy our filters.
+
+2_FASTA_CDS_expression: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are coding sequence information for all qualifying genes that satisfy our filters. Files in this folder contain protein expression data for each gene.
+
+2_FASTA_CDS_hegs: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are coding sequence information for all highly expressed genes (see methods for how these are defined).
+
+2_FASTA_CDS_legs: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are coding sequence information for all lowly expressed genes (see methods for how these are defined).
+
+2_FASTA_Eubacteria_cds_mollicutes: This folder contains FASTA files for all mollicute genomes found in the unfiltered bacterial genomes dataset. Sequences contained in the FASTA files are the UTRs for all qualifying genes.
+
+2_FASTA_Eubacteria_cds_TT4: This folder contains FASTA files for translation table 4 genomes from our filtered bacteria dataset. Sequences contained in the FASTA files are the UTRs for all qualifying genes.
+
+2_FASTA_Eubacteria_cds_TT11: This folder contains FASTA files for translation table 11 genomes from our filtered bacteria dataset. Sequences contained in the FASTA files are the UTRs for all qualifying genes.
+
+2_FASTA_Eubacteria_cds_TT11_TAA: This folder contains FASTA files for translation table 11 genomes from our filtered bacteria dataset. Sequences contained in the FASTA files are the UTRs for all qualifying genes that terminate TAA.
+
+2_FASTA_Eubacteria_cds_TT11_TAG: This folder contains FASTA files for translation table 11 genomes from our filtered bacteria dataset. Sequences contained in the FASTA files are the UTRs for all qualifying genes that terminate TAG.
+
+2_FASTA_Eubacteria_cds_TT11_TGA: This folder contains FASTA files for translation table 11 genomes from our filtered bacteria dataset. Sequences contained in the FASTA files are the UTRs for all qualifying genes that terminate TGA.
+
+2_FASTA_PaxDb: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are the UTRs for all qualifying genes that satisfy our filters.
+
+2_HEGs_fasta: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are the UTRs for all qualifying highly expressed genes (see methods for how these are defined).
+
+2_LEGs_fasta: This folder contains FASTA files for all genomes for which protein expression data was available. Sequences contained in the FASTA files are the UTRs for all qualifying lowly expressed genes (see methods for how these are defined).
+
+
+Alexander Ho
+Milner Centre for Evolution
+University of Bath
+a.t.ho@bath.ac.uk
