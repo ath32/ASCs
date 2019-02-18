@@ -2,7 +2,7 @@
 
 ================
 
-This repository contains the source code for running the analysis described in the paper.
+This repository contains the source code for running the analysis described in the paper. Not all of the scripts in this repository will be relevant to the complete replication of the study - if you wish to do this, please send me an e-mail and we can sort something out (a.t.ho@bath.ac.uk).
 
 ###Instructions:
 - All files run from the root directory.
@@ -10,7 +10,7 @@ This repository contains the source code for running the analysis described in t
 - R scripts are found in '0_R_scripts'
 - CSVs produced by Python scripts can be found in 'Author CSVs'
 
-###Folders in this repository:
+###The folders in this repository are labelled 0-4:
 - 0 - Scripts
 - 1 - EMBL files (not uploaded to this repository due to size)
 - 2 - FASTA files
