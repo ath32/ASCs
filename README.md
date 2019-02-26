@@ -10,10 +10,10 @@ This repository contains the source code for running the analysis described in t
 - R scripts are found in '0_R_scripts'
 - CSVs produced by Python scripts can be found in 'Author CSVs'
 
-###The folders in this repository are labelled 0-4:
+###The folders found in my working directory are labelled 0-4, all available on request:
 - 0 - Scripts
-- 1 - EMBL files (not uploaded to this repository due to size)
-- 2 - FASTA files
+- 1 - EMBL files 
+- 2 - FASTA files 
 - 3 - PaxDB raw data and appropriate EMBL genomes
 - 4 - Outputs (includes CSVs)
 
@@ -35,7 +35,7 @@ Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed
 
 ###FASTA folders/files explained:
 
-This repository contains many different folders of FASTA files. These are each explained below:
+My working repository contains many different folders of FASTA files (I am happy to send these to you upon request). These are each explained below:
 
 2_FASTA_CDS_all: This folder contains FASTA files for our filtered bacteria dataset. Sequences contained in the FASTA files are coding sequence information for all qualifying genes that satisfy our filters.
 
