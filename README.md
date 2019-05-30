@@ -8,7 +8,7 @@ This repository contains the source code for running the analysis described in t
 - All files run from the root directory.
 - Python scripts are found in '0_Python_scripts' (all scripts are run using Python3)
 - R scripts are found in '0_R_scripts'
-- CSVs produced by Python scripts can be found in 'Author CSVs'
+- CSVs produced by Python scripts can be found in 'CSVs'
 
 ###The folders found in my working directory are labelled 0-4, all available on request:
 - 0 - Scripts
