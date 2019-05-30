@@ -33,6 +33,8 @@ Python scripts are categorised 1-11 as follows. A spreadsheet with more detailed
 - 10 - T-codon enrichment scores
 - 11 - Lengths and expression association
 
+*** Codon switch analysis files (including scripts) are found in the 'COGs' folder ***
+
 ###FASTA folders/files explained:
 
 My working repository contains many different folders of FASTA files (I am happy to send these to you upon request). These are each explained below:
