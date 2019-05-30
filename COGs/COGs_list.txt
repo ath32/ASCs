@@ -1,0 +1,120 @@
+Dataset of 37 triplets of closely-related prokaryotic species used in previous studies.
+Of these, 29 are used in our analysis (there is insufficient data for 8).
+The unused triples were as follows: ATGC108, ATGC123, ATGC125, ATGC137, ATGC144, ATGC188, ATGC189, ATGC210.
+
+
+ATGC#   Species name  (in-group 1, in-group 2, outgroup)
+-------------------------------------------------------------------------------------------------------------------
+ATGC001 Salmonella enterica arizonae serovar
+        Salmonella enterica serovar Choleraesuis
+        Salmonella bongori NCTC 12419           
+ATGC003 Streptococcus pneumoniae INV200
+        Streptococcus pseudopneumoniae IS7493   
+        Streptococcus mitis B6                  
+ATGC008 Streptococcus salivarius CCHSS3
+        Streptococcus salivarius JIM8777        
+        Streptococcus thermophilus CNRZ1066     
+ATGC014 Bacillus cereus ATCC 10987
+        Bacillus thuringiensis Al Hakam         
+        Bacillus weihenstephanensis KBAB4       
+ATGC015 Bacillus JS
+        Bacillus subtilis BSP1                  
+        Bacillus subtilis spizizenii W23        
+ATGC035 Mycoplasma capricolum ATCC 27343
+        Mycoplasma leachii PG50                 
+        Mycoplasma mycoides SC PG1              
+ATGC044 Rickettsia akari Hartford
+        Rickettsia massiliae MTU5               
+        Rickettsia prowazekii Rp22              
+ATGC050 Helicobacter pylori 83 
+        Helicobacter pylori SouthAfrica7        
+        Helicobacter cetorum MIT 99 5656        
+ATGC071 Pseudomonas putida H8234              
+        Pseudomonas putida NBRC 14164           
+        Pseudomonas putida GB 1                 
+ATGC088 Burkholderia thailandensis E264       
+        Burkholderia thailandensis MSMB121      
+        Burkholderia pseudomallei K96243        
+ATGC089 Burkholderia cenocepacia J2315      
+        Burkholderia cenocepacia MC0 3          
+        Burkholderia cepacia GG4                
+ATGC097 Erwinia Ejp617                        
+        Erwinia amylovora ATCC 49946            
+        Erwinia tasmaniensis Et1 99             
+ATGC100 Pectobacterium carotovorum PC1       
+        Pectobacterium carotovorum PCC21        
+        Pectobacterium SCC3193                  
+ATGC104 Bifidobacterium longum JCM 1217        
+        Bifidobacterium longum infantis ATCC 156
+        Bifidobacterium breve ACS 071 V Sch8b   
+ATGC108 Listeria monocytogenes J0161          
+        Listeria monocytogenes SLCC2376         
+        Listeria innocua Clip11262              
+ATGC111 Aeromonas hydrophila ATCC 7966      
+        Aeromonas hydrophila ML09 119           
+        Aeromonas salmonicida A449              
+ATGC123 Rhizobium leguminosarum bv  trifolii   
+        Rhizobium leguminosarum bv  viciae 3841 
+        Rhizobium leguminosarum bv  trifolii 
+ATGC125 Rhizobium NGR234                       
+        Sinorhizobium fredii HH103              
+        Sinorhizobium fredii USDA 257           
+ATGC134 Xanthomonas axonopodis citri 306      
+        Xanthomonas axonopodis citrumelo F1     
+        Xanthomonas oryzae oryzicola BLS256     
+ATGC135 Stenotrophomonas maltophilia D457      
+        Stenotrophomonas maltophilia JV3        
+        Stenotrophomonas maltophilia R551 3     
+ATGC137 Neisseria gonorrhoeae TCDC NG08107     
+        Neisseria meningitidis MC58             
+        Neisseria lactamica 020 06              
+ATGC138 Francisella noatunensis orientalis     
+        Francisella philomiragia ATCC 25017     
+        Francisella TX077308                    
+ATGC144 Borrelia bissettii DN127               
+        Borrelia burgdorferi ZS7                
+        Borrelia garinii BgVir                  
+ATGC147 Methanococcus maripaludis C5        
+        Methanococcus maripaludis C6            
+        Methanococcus maripaludis C7            
+ATGC149 Acinetobacter calcoaceticus PHEA 2   
+        Acinetobacter oleivorans DR1            
+        Acinetobacter baumannii AB307 0294      
+ATGC165 Rhodobacter sphaeroides ATCC 17029     
+        Rhodobacter sphaeroides KD131           
+        Rhodobacter sphaeroides ATCC 17025      
+ATGC171 Thermoanaerobacter X514                 
+        Thermoanaerobacter wiegelii Rt8 B1      
+        Thermoanaerobacter mathranii A3         
+ATGC177 Prochlorococcus marinus AS9601        
+        Prochlorococcus marinus MIT 9301        
+        Prochlorococcus marinus MIT 9312        
+ATGC181 Caldicellulosiruptor bescii DSM 6725    
+        Caldicellulosiruptor hydrothermalis 108 
+        Caldicellulosiruptor owensensis OL      
+ATGC188 Ralstonia solanacearum GMI1000        
+        Ralstonia solanacearum PSI07            
+        Ralstonia solanacearum CFBP2957         
+ATGC189 Cupriavidus necator N 1                
+        Ralstonia eutropha H16                  
+        Cupriavidus taiwanensis LMG 19424       
+ATGC199 Paenibacillus polymyxa E681            
+        Paenibacillus polymyxa SC2              
+        Paenibacillus terrae HPL 003            
+ATGC201 Bartonella grahamii as4aup             
+        Bartonella tribocorum CIP 105476        
+        Bartonella quintana Toulouse            
+ATGC210 Dehalococcoides VS                  
+        Dehalococcoides ethenogenes 195         
+        Dehalococcoides GT                      
+ATGC213 Methylobacterium extorquens AM1       
+        Methylobacterium extorquens PA1         
+        Methylobacterium populi BJ001           
+ATGC234 Clavibacter michiganensis NCPPB 382   
+        Clavibacter michiganensis nebraskensis 
+        Clavibacter michiganensis sepedonicus   
+ATGC252 Anaeromyxobacter K                      
+        Anaeromyxobacter dehalogenans 2CP 1     
+        Anaeromyxobacter dehalogenans 2CP C    
+
+
