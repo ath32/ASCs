@@ -11,7 +11,6 @@ Entamoeba dispar SAW760 (JCVI_EDISG_1.0)
 Giardia lamblia (GL2)
 Hyaloperonospora arabidopsidis (HyaAraEmoy2_2.0)
 Leishmania major (ASM272v2)
-Monosiga brevicollis MX1 (V1.0)
 Naegleria gruberi str. NEG-M (V1.0)
 Peronospora effusa (ASM384389v1)
 Phaeodactylum tricornutum (ASM15095v2)
@@ -24,3 +23,8 @@ Thalassiosira pseudonana (ASM14940v2)
 Toxoplasma gondii ARI (TGARI_v2)
 Tritrichomonas foetus str. K (ASM183968v1)
 Trypanosoma brucei (TryBru_Apr2005_chr11)
+
+Yeasts:
+
+S. cerevisiae - https://www.yeastgenome.org/
+C. albicans - http://www.candidagenome.org/
