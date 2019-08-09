@@ -1,5 +1,7 @@
 EnsemblProtists: https://protists.ensembl.org/species.html
+In this study I consider just one genome per genus, as follows:
 
+Acanthamoeba castellanii str. Neff (Acastellanii.strNEFF_v1)
 Albugo laibachii (ENA1)
 Angomonas deanei
 Aphanomyces astaci (astaci_197901)
